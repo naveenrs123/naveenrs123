@@ -20,6 +20,6 @@ I'm Naveen, an 4th Year undergraduate computer science student at UBC.
 - 🔭 I’m currently working on **preparing for coding interviews** and **jumping into the world of data science!**
 - 🌱 I’m currently learning about **various Python libraries and tools for NLP tasks** and brushing up on my algorithms and data structures. 
 - 🤔 I’m looking for help with **finding good datasets for practice** and **finding good courses/certifications to get started with data science**.
-- 📫 How to reach me: Send me an email at **naveen.sivasankar1234@gmail.com** if you want to chat or reach out on [**LinkedIn**](https://www.linkedin.com/in/nrs1/)!
+- 📫 Send me an email at **naveen.sivasankar1234@gmail.com** if you want to chat or reach out on [**LinkedIn**](https://www.linkedin.com/in/nrs1/)!
 
 
