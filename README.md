@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Naveen, an 4th Year undergraduate computer science student at UBC.
+I'm Naveen, a 4th Year undergraduate computer science student at UBC.
 
 - 🔭 I’m currently working on **preparing for coding interviews** and **jumping into the world of data science!**
 - 🌱 I’m currently learning about **various Python libraries and tools for NLP tasks** and brushing up on my algorithms and data structures. 
