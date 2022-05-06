@@ -2,9 +2,8 @@
   <img src="https://user-images.githubusercontent.com/42954045/167086486-f8534874-6b4c-4a50-8b9e-180a4a595ed4.gif">
 </p>
 
-# I'm Naveen!
 
-I'm a new graduate of the University of British Columbia, where I completed my B.Sc. Honours Degree in Computer Science.
+**I'm Naveen!** I'm a new graduate of the University of British Columbia, where I completed my B.Sc. Honours Degree in Computer Science.
 
 <!--
 **naveenrs123/naveenrs123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
