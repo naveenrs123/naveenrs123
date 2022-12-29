@@ -3,7 +3,9 @@
 </p>
 
 
-**I'm Naveen!** I'm a new graduate of the University of British Columbia, where I completed my B.Sc. Honours Degree in Computer Science.
+**I'm Naveen!** I'm a software Developer at Copperleaf, a leading company in the field of decision analytics and asset management software.
+
+I am a recent graduate of the University of British Columbia, where I completed my B.Sc. Honours Degree in Computer Science.
 
 <!--
 **naveenrs123/naveenrs123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,8 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **preparing for coding interviews** and **jumping into the world of software development**.
-- 🌱 My priority right now is brushing up on my **algorithms and data structures** and learning more about different aspects of software development.
-- 👯 **Open-source software development** is one of my interests and I want to find some cool projects that need people to contribute to them.
-- 🤔 I’m seeking **career guidance** and appreciate advice on **what to focus on** as I seek full-time employment.
-- 📫 Send me an email at **naveen.sivasankar1234@gmail.com** if you want to chat or reach out on [**LinkedIn**](https://www.linkedin.com/in/nrs1/)!
+- 🔭 I’m currently working on **full-stack development** with a focus on frontend design with **Angular** and **.NET**.
+- 🌱 My priority right now is strengthening my knowledge of Angular and other frontend JavaScript frameworks.
+- 🤔 I’m seeking **career guidance** and appreciate advice on **how to grow as a developer** as I continue my journey.
+- 📫 Send me an email at **naveen.sivasankar1234@gmail.com** if you want to chat or reach out on [**LinkedIn**](https://www.linkedin.com/in/NSivasa/)!
