@@ -3,7 +3,7 @@
 </p>
 
 
-**I'm Naveen!** I'm a software Developer at Copperleaf, a leading company in the field of decision analytics and asset management software.
+**I'm Naveen!** I'm a Software Developer at Copperleaf, a leading company in the field of decision analytics and asset management software.
 
 I am a recent graduate of the University of British Columbia, where I completed my B.Sc. Honours Degree in Computer Science.
 
