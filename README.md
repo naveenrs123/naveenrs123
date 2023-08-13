@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on **full-stack development** with a focus on frontend design with **Angular** and **.NET**.
-- 🌱 My priority right now is strengthening my knowledge of Angular and other frontend JavaScript frameworks.
+- 🌱 My priority right now is strengthening my knowledge of Angular and learning about the latest .NET features.
 - 🤔 I’m seeking **career guidance** and appreciate advice on **how to grow as a developer** as I continue my journey.
-- 📫 Send me an email at **naveen.sivasankar1234@gmail.com** if you want to chat or reach out on [**LinkedIn**](https://www.linkedin.com/in/NSivasa/)!
+- 📫 Send me an email at **naveensivasankar@gmail.com** if you want to chat or reach out on [**LinkedIn**](https://www.linkedin.com/in/NSivasa/)!
